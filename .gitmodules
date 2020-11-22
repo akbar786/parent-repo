@@ -1,0 +1,3 @@
+[submodule "child-repo-dir/child-repo"]
+	path = child-repo-dir/child-repo
+	url = https://akbar786@github.com/akbar786/child-repo.git
